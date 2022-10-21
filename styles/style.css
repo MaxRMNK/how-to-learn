@@ -160,6 +160,7 @@ Block 2 - Digits
   justify-content: space-between;
   width: 1100px;
   margin: 0;
+  padding: 0;
 }
 
 .table__cell {
