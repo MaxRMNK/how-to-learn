@@ -12,11 +12,9 @@
 
 ### Проектная работа 1
 [Бриф с описаниями и иллюстрациями](https://disk.yandex.ru/i/v2ogYELngs56Bw)
-
 [Чеклист для самостоятельной проверки работы](https://disk.yandex.ru/i/bOdsD7pN36WRUQ)
 
 ### Проектная работа 2
 [Бриф с описаниями и иллюстрациями](https://disk.yandex.ru/i/Febn_DhiN0Syuw)
-
 [Чеклист для самостоятельной проверки работы](https://disk.yandex.ru/i/Ce_eJpeDOZCS6w)
 
