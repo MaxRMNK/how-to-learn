@@ -1,6 +1,6 @@
 # Проектная работа "Научиться учиться"
 
-[Ссылка на Gihub Pages:] https://maxrmnk.github.io/how-to-learn/
+Ссылка на Gihub Pages: https://maxrmnk.github.io/how-to-learn/
 
 ## Описание проекта
 Работа выполнена в качестве проверочного задания в рамках учебной программы **[Яндекс.Практикум «Веб-разработчик»](https://practicum.yandex.ru/web/)**, курс 1, проектные работы 1 и 2.
