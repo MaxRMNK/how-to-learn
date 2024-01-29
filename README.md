@@ -11,10 +11,10 @@
 Сайт создан с использованием изученных технологий: flexbox-верстка, абсолютное и относительное позиционирование и анимация элементов, а также построение структуры классов и файлов по методологии БЭМ.
 
 ### Проектная работа 1
-**[Бриф с описаниями и иллюстрациями](https://github.com/MaxRMNK/how-to-learn/blob/main/sources/sprint-1-brief.pdf)
-**[Чеклист для самостоятельной проверки работы](https://github.com/MaxRMNK/how-to-learn/blob/main/sources/checklist-1.pdf)
+* [Бриф с описаниями и иллюстрациями](https://github.com/MaxRMNK/how-to-learn/blob/main/sources/sprint-1-brief.pdf)
+* [Чеклист для самостоятельной проверки работы](https://github.com/MaxRMNK/how-to-learn/blob/main/sources/checklist-1.pdf)
 
 ### Проектная работа 2
-**[Бриф с описаниями и иллюстрациями](https://github.com/MaxRMNK/how-to-learn/blob/main/sources/sprint-2-brief.pdf)
-**[Чеклист для самостоятельной проверки работы](https://github.com/MaxRMNK/how-to-learn/blob/main/sources/checklist-2.pdf)
+* [Бриф с описаниями и иллюстрациями](https://github.com/MaxRMNK/how-to-learn/blob/main/sources/sprint-2-brief.pdf)
+* [Чеклист для самостоятельной проверки работы](https://github.com/MaxRMNK/how-to-learn/blob/main/sources/checklist-2.pdf)
 
